@@ -1,0 +1,22 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "\"Responsive portfolio\"",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Maulik Padamani",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mpadmani/portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mpadmani/portfolio/issues"
+  },
+  "homepage": "https://github.com/Mpadmani/portfolio#readme"
+}
